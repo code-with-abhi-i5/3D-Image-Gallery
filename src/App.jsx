@@ -362,7 +362,7 @@ function App() {
     <div onClick={handleDocumentClick}>
       <nav>
         <a href="#">Silhouette</a>
-        <p>dowlode assest</p>
+        <p></p>
       </nav>
       <div className="container">
         <div id="gallery-container" className="gallery-container" ref={galleryContainerRef}>
@@ -383,7 +383,7 @@ function App() {
         <div id="title-container" className="title-container" ref={titleContainerRef}></div>
       </div>
       <footer>
-        <p>experiment 453</p>
+        <p></p>
         <p>made by abhijeet</p>
       </footer>
     </div>
