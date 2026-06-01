@@ -361,7 +361,7 @@ function App() {
   return (
     <div onClick={handleDocumentClick}>
       <nav>
-        <a href="#">Silhouette</a>
+        <a href="#">3D image gallery</a>
         <p></p>
       </nav>
       <div className="container">
