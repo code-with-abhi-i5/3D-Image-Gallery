@@ -50,4 +50,4 @@ The gallery leverages React's `useRef` to maintain references to DOM elements an
 
 ## 👨‍💻 Author
 
-Made by **Abhijeet** (Experiment 453)
+Made by **Abhijeet Ghosh**
